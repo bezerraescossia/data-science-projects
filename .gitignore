@@ -175,4 +175,4 @@ cython_debug/
 
 # exception files
 _data/
-crisp-dm.ipynb
+_references/
