@@ -24,9 +24,6 @@ conda env create -f _envs/nome_do_ambiente.yml
 ### `/_models`
 A pasta `_models` armazena os **modelos treinados**, sejam modelos de machine learning ou outros tipos de modelos estatísticos. Aqui, você encontrará modelos salvos que podem ser carregados para previsão ou análise posterior.
 
-### `/_templates`
-Os templates são arquivos base, como notebooks Jupyter ou scripts, que servem como ponto de partida para as análises e modelagens. Eles incluem o código padrão, como importação de dados, pré-processamento e treinamento de modelos.
-
 ## Data Mining Problem Types:
 
 1. Data description and summarization
