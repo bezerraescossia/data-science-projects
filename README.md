@@ -35,4 +35,3 @@ Os templates são arquivos base, como notebooks Jupyter ou scripts, que servem c
 4. Classification
 5. Prediction
 6. Dependency analysis
-7. 
