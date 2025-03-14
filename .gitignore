@@ -176,3 +176,4 @@ cython_debug/
 # exception files
 _data/
 _references/
+_models/
