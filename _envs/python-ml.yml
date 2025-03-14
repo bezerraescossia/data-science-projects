@@ -1,4 +1,4 @@
-name: microsoft-stock-price
+name: python-ml
 channels:
   - conda-forge
   - https://repo.anaconda.com/pkgs/main
